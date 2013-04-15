@@ -12,6 +12,11 @@ class Reading
 	*/
 	private $timeStamp;
 	
+	function __construct()
+	{
+		
+	}
+	
 	/**
 	* Get consumption data
 	*
